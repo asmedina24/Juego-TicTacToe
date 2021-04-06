@@ -6,6 +6,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### `Puedes Jugar aquí`
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+Open [http://localhost:3000](https://asmedina24.github.io/TicTacToe/index.html) to view it in the browser.
 
