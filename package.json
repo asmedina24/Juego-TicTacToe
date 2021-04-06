@@ -11,14 +11,14 @@
     "reactstrap": "^8.9.0",
     "styled-components": "^5.2.1"
   },
-  "homepage": "https://asmedina24.github.io/TicTacToe",
+  "homepage": "https://asmedina24.github.io/Juego-TicTacToe/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "react-scripts build && firebase deploy"
   },
   "eslintConfig": {
     "extends": "react-app"
